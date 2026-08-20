@@ -1,7 +1,7 @@
 # 🧠 TensorStack: Build a Large Language Model from Scratch in PyTorch
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tensorstack-labs/gpt-from-scratch/main/assets/tensorstack_banner.png" alt="TensorStack Banner" width="100%">
+  <img src="assets/tensorstack_banner.png" alt="TensorStack Banner" width="100%">
 </p>
 
 <p align="center">
