@@ -1,6 +1,6 @@
 # 🧠 Chapter 3: Coding Multi-Head Self-Attention in PyTorch
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Masterclass-red)](https://youtu.be/jYohHdwnnd0)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Masterclass-red)](https://youtu.be/80MwvIFL_T4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorstack-labs/gpt-from-scratch/blob/main/chapter_03_self_attention/Chapter3_Interactive_Notebook.ipynb)
 
 In Chapter 3, we implement the complete attention mechanism that powers modern Large Language Models:
