@@ -1,6 +1,6 @@
 # 🧠 Chapter 2: Building Tokenizers and Vector Embeddings in PyTorch
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Masterclass-red)](https://youtu.be/E2Ix9RbryxQ)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Masterclass-red)](https://youtu.be/050r1czRoxQ)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorstack-labs/gpt-from-scratch/blob/main/chapter_02_tokenizers_and_embeddings/Chapter2_Interactive_Notebook.ipynb)
 
 In Chapter 2, we build the complete text ingestion and continuous representation pipeline in pure PyTorch from scratch.
